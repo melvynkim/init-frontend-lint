@@ -22,3 +22,4 @@ fi
 # Run setup scripts
 bash <(curl -sL https://raw.githubusercontent.com/melvynkim/init-frontend-lint/main/scripts/setup_lint_files.sh)
 bash <(curl -sL https://raw.githubusercontent.com/melvynkim/init-frontend-lint/main/scripts/update_package_json.sh)
+bash <(curl -sL https://raw.githubusercontent.com/melvynkim/init-frontend-lint/main/scripts/install_dev_dependencies.sh)
